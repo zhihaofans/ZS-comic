@@ -32,6 +32,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'org.jetbrains.anko:anko:0.10.4'
-    implementation 'com.orhanobut:logger:2.1.1'
-    implementation 'com.github.ruzhan123:ScollZoomListView:v1.0'
+    implementation 'com.orhanobut:logger:2.1.1'// https://github.com/orhanobut/logger
+    implementation 'com.github.maning0303:MNCrashMonitor:V1.0.7' // https://github.com/maning0303/MNCrashMonitor
+    implementation 'com.github.yjfnypeu:EasyAndroid:1.1.4'// https://github.com/yjfnypeu/EasyAndroid
+    implementation 'com.github.ruzhan123:ScollZoomListView:v1.0'// https://github.com/ruzhan123/ScollZoomListView
 }
